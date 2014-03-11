@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	// Original shader: BaseTextureAlphaBlend
+	"$AlphaTest" "1"
+	"$AlphaTestReference" "0.5"
+	"$AllowAlphaToCoverage" "1"
+	"$FlashlightNoLambert" "1"
+	"$basetexture" "models/props_foliage/tree_deciduous_01a_leaves"
+	"$model" 1
+	"$nocull" 1
+}
+

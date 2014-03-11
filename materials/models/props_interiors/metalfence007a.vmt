@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	//"$translucent" 1
+	"$basetexture" "Metal/metalfence007a"
+	"%compilepassbullets" 1
+	"$surfaceprop" "chainlink"
+	"%keywords" "c17downtown,c17industrial"
+	"%compileladder" 1
+
+	"$AlphaTest" "1"
+	"$AlphaTestReference" "0.3"
+	"$AllowAlphaToCoverage" "1"
+}

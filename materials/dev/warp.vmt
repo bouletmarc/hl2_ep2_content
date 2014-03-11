@@ -1,0 +1,4 @@
+warp
+{
+	$basetexture	"_rt_FullFrameFB1"
+}

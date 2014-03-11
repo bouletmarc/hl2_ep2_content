@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	// Original shader: DecalDarkeningSpecularCubicEnvMap
+	"%tooltexture" "Decals/decalwastelandpuddle001a"
+	"$envmap" "environment maps/klab_01"
+	"$basetexture" "decals/decalborealispuddlemask001a"
+	"$decal" 1
+	"$decalscale" 0.25
+	"$envmaptint" "[ 0.70 0.70 0.70 ]"
+	"%keywords" "borealis"
+	"$translucent" 1
+}

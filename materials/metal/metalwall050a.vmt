@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Metal/metalwall050a"
+	"$surfaceprop" "metal"
+
+		//This isn't an actual bumpmap
+		//"$bumpmap" "Metal/metalwall050a"
+	//"$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask" 1
+	//"$envmapcontrast" 1
+	//"$envmapsaturation" 1
+	//"$envmaptint" "[ .5 .5 .5]"
+}

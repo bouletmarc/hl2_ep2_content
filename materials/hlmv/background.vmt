@@ -1,0 +1,5 @@
+//"LightmappedGeneric"
+"UnLitGeneric"
+{
+	"$baseTexture" "skybox/sky_wasteland02bk"
+}

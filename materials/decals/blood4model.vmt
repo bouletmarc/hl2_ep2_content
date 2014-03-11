@@ -1,0 +1,17 @@
+"DecalModulate"
+{
+	"$decal" 1
+	"$basetexture" "Decals/bloodstain_101"
+	"$decalscale" 0.25
+}
+
+
+// Used to be this, changed for HL2-reship on PC and Mac in May 2010 - JasonM
+//"VertexLitGeneric"
+//{
+//	// Original shader: DecalBaseTimesLightmapAlphaBlend
+//	"$translucent" 1
+//	"$basetexture" "Decals/noblood"
+//	"$decal" 1
+//	"$decalscale" 0.25
+//}
