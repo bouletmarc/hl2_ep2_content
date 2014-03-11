@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui\icon_con_medium"
+	"$translucent" 1
+	"$ignorez" 1
+}

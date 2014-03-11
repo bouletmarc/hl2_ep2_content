@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "vgui/progressbar"
+}

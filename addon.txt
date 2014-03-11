@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Half Life 2 & Half Life 2 : DeathMatch Content addon (Dec2013)"
+	"version"			"3.0"
+	"up_date"			"03. December 2013"
+	"author_name"			"Kajar9"
+	"author_email"			"kajar8@gmail.com"
+	"author_url"			"http://cscheater.era.ee"
+	"info"				"Half Life 2 & Half Life 2 : DeathMatch content for those who don't have it"
+	"override"				"0"
+}
